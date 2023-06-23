@@ -3,7 +3,7 @@ import React, {useEffect, useState} from 'react';
 import PersonIcon from '@mui/icons-material/Person';
 import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 import CommentIcon from '@mui/icons-material/Comment';
-import {Link, useParams} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 const Posts = () => {
 
